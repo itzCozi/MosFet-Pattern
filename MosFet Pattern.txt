@@ -1,0 +1,1 @@
+The MosFet Pattern favors readablity, editablitly and ease of aceess first import all of your packages then you define your variables or "vars" after you define all functions then the #main section then the loop/end where the program loops or ends. An example is included in the Main.py.
